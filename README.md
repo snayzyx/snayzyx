@@ -1,2 +1,1 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snayzyx&show_icons=true&theme=gradient)
+https://pagespeed-insights.herokuapp.com?url=https://snayzyx.github.io
