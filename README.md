@@ -18,7 +18,6 @@ Si vous avez une idée de projet vous pouvez me contacter sur discord (ajoutez s
 
 ## Statistiques
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snayzyx&theme=react&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snayzyx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activité récente
 
